@@ -1,0 +1,68 @@
+.nav-bg-color {
+	background: #02232a;
+}#nav-fluid-logo-menu-btn {
+	background: transparent;
+}#nav-fluid-logo-menu-btn .nav-bg {
+	background: #02232a;
+	opacity: 0.4;
+}#header-img-slogan-btn-2 {
+	background: linear-gradient(135deg, #001d73, #5c043a);
+}
+
+#header-img-slogan-btn-2 .bg {
+	background-image: url('../images/113893_adapted_landscape_2048x1280.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom center;
+	opacity: 0.3;
+}#header-img-slogan-btn-img {
+	background: linear-gradient(135deg, #5c043a, #001d73);
+}
+
+#header-img-slogan-btn-img .bg {
+	background-image: url('../images/114285_adapted_landscape_2048x1280.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom center;
+	opacity: 0.4;
+}#testimonials-carousel-single-5 {
+	background: radial-gradient(circle, #05191f 30%, #353b4a 70%);
+}
+
+#testimonials-carousel-single-5 .bg {
+	background-image: url('../images/bg-nature-5.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.4;
+}#video-center-icon-text {
+	background: #000000;
+}
+
+#video-center-icon-text .bg {
+	background-image: url('../images/113893_adapted_landscape_2048x1280.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.45;
+}
+#footer-fluid-text-icon-social .bg {
+	background-image: url('../images/photo-1490106087286-bd050867d86e.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.46;
+}
+#footer-fluid-text-icon-social {
+	background: #05191f;
+}
